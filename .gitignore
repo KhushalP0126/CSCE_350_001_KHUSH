@@ -1,0 +1,9 @@
+.venv/
+inputs/
+outputs/
+Pandala_Khushal_executionTime.txt
+Pandala_Khushal_executionTime_singleRun.txt
+Pandala_Khushal_plotAverageExecutionTime.jpg
+Pandala_Khushal_QuickSort
+Pandala_Khushal_RunExperiments
+InputFileGenerator
